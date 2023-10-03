@@ -1,0 +1,14 @@
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\bin\Debug\net7.0\Anfiteatro.exe
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\bin\Debug\net7.0\Anfiteatro.deps.json
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\bin\Debug\net7.0\Anfiteatro.runtimeconfig.json
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\bin\Debug\net7.0\Anfiteatro.dll
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\bin\Debug\net7.0\Anfiteatro.pdb
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.AssemblyInfoInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.AssemblyInfo.cs
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.csproj.CoreCompileInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.dll
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\refint\Anfiteatro.dll
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.pdb
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\Anfiteatro.genruntimeconfig.cache
+C:\Users\cabre\OneDrive\Escritorio\Web_Api_Practicas\PruebaTecnica01\Anfiteatro\obj\Debug\net7.0\ref\Anfiteatro.dll
